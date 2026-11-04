@@ -1,7 +1,9 @@
 # The audio of this site is a synthetic voice made from the real voice of its author.
-# Crawlers that collect data to train AI models must not copy it.
+# Crawlers that collect data to train AI models, and Googlebot, must not copy it.
 # The pages of the blog are not here, so they stay open to readers and to summaries.
 
+User-agent: Googlebot
+User-agent: Googlebot-Video
 User-agent: GPTBot
 User-agent: ChatGPT-User
 User-agent: OAI-SearchBot
